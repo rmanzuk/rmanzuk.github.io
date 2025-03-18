@@ -1,0 +1,30 @@
+baseURL = 'https://rmanzuk.github.io'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'cactus'
+
+[params]
+    colortheme = "white" # dark, light, white, or classic
+    description = "Under construction"
+    mainSection = "projects"
+    mainSectionTitle = "Projects"
+    showAllPostsOnHomePage = false
+    postsOnHomePage = 5
+    tagsOverview = true
+    tocInline = true
+    showProjectsList = faklse
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/rmanzuk"
+
+[[params.social]]
+  name = "email"
+  link = "rmanzuk@princeton.edu" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "www.linkedin.com/in/ryan-manzuk"
+
+[[params.comments]]
+    enabled = false
