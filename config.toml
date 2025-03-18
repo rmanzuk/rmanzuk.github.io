@@ -1,30 +1,54 @@
-baseURL = 'https://rmanzuk.github.io'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'cactus'
+baseURL = "https://rmanzuk.github.io/"
+languageCode = "en-us"
+title = "Ryan A. Manzuk"
+publishDir = "public"
+theme = "cactus"
 
 [params]
-    colortheme = "white" # dark, light, white, or classic
-    description = "Under construction"
+    colortheme = "white" # Options: dark, light, white, or classic
+    description = "Hi! I'm constructing this website as a place to succinctly store and describe my work. It's in progress and I hope will be in a more completed version soon (posted 03/17/2025)"
     mainSection = "projects"
-    mainSectionTitle = "Projects"
+    mainSectionTitle = "Discoveries"
     showAllPostsOnHomePage = false
     postsOnHomePage = 5
     tagsOverview = true
     tocInline = true
-    showProjectsList = faklse
+    showProjectsList = false  # to use the template's default project list
+    googleAnalytics = ""  # Disable it
 
 [[params.social]]
-  name = "github"
-  link = "https://github.com/rmanzuk"
+    name = "github"
+    link = "https://github.com/rmanzuk"
 
 [[params.social]]
-  name = "email"
-  link = "rmanzuk@princeton.edu" # no need for "mailto:" at the start
+    name = "email"
+    link = "mailto:rmanzuk@princeton.edu"  # Added "mailto:" for proper email links
 
 [[params.social]]
-  name = "linkedin"
-  link = "www.linkedin.com/in/ryan-manzuk"
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/ryan-manzuk"  # Fixed missing "https://"
 
-[[params.comments]]
+[params.comments]
     enabled = false
+
+# Main menu which appears below site header.
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects"
+    weight = 2
+
+[[menu.main]]
+    name = "CV"
+    url = "/files/CV_rmanzuk.pdf"
+    weight = 3
+    params = { target = "_blank" }
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 4
