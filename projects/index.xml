@@ -6,42 +6,7 @@
     <description>Recent content in Projects on Ryan A. Manzuk</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Mar 2025 21:15:47 -0500</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://rmanzuk.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>U_mining</title>
-      <link>https://rmanzuk.github.io/projects/u_mining/</link>
-      <pubDate>Mon, 17 Mar 2025 21:15:47 -0500</pubDate>
-      <guid>https://rmanzuk.github.io/projects/u_mining/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Facies_vector</title>
-      <link>https://rmanzuk.github.io/projects/facies_vector/</link>
-      <pubDate>Mon, 17 Mar 2025 21:15:39 -0500</pubDate>
-      <guid>https://rmanzuk.github.io/projects/facies_vector/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Landsat_conflict</title>
-      <link>https://rmanzuk.github.io/projects/landsat_conflict/</link>
-      <pubDate>Mon, 17 Mar 2025 21:14:46 -0500</pubDate>
-      <guid>https://rmanzuk.github.io/projects/landsat_conflict/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Branching_archaeocyaths</title>
-      <link>https://rmanzuk.github.io/projects/branching_archaeocyaths/</link>
-      <pubDate>Mon, 17 Mar 2025 21:14:01 -0500</pubDate>
-      <guid>https://rmanzuk.github.io/projects/branching_archaeocyaths/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Multispectral_camera</title>
-      <link>https://rmanzuk.github.io/projects/multispectral_camera/</link>
-      <pubDate>Mon, 17 Mar 2025 21:13:40 -0500</pubDate>
-      <guid>https://rmanzuk.github.io/projects/multispectral_camera/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
