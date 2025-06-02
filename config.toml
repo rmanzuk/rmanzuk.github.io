@@ -6,7 +6,7 @@ theme = "cactus"
 
 [params]
     colortheme = "white" # Options: dark, light, white, or classic
-    description = "Hi! I'm constructing this website as a place to succinctly store and describe my work. It's in progress and I hope will be in a more completed version soon (posted 03/17/2025)"
+    description = "Hi! This website is to serve as a forum to succinctly store my work, as well as what I'm currently curious about. Flip to the About page for a blurb, or check out any of the Projects/Discoveries to get a flavor of what I've done."
     mainSection = "projects"
     mainSectionTitle = "Discoveries"
     showAllPostsOnHomePage = false
@@ -15,6 +15,7 @@ theme = "cactus"
     tocInline = true
     showProjectsList = false  # to use the template's default project list
     googleAnalytics = ""  # Disable it
+    logo = "images/ryan_manzuk_headshot.jpg" # point to image to use for logo
 
 [[params.social]]
     name = "github"
@@ -33,18 +34,18 @@ theme = "cactus"
 
 # Main menu which appears below site header.
 [[menu.main]]
-    name = "Home"
+    name = "Home "
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Projects"
+    name = "Projects "
     url = "/projects"
     weight = 2
 
 [[menu.main]]
-    name = "CV"
-    url = "/files/CV_rmanzuk.pdf"
+    name = "CV "
+    url = "/files/cv_rmanzuk.pdf"
     weight = 3
     params = { target = "_blank" }
 

@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://rmanzuk.github.io/projects/</loc>
+    <lastmod>2025-03-17T21:15:47-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://rmanzuk.github.io/</loc>
+    <lastmod>2025-03-17T21:15:47-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://rmanzuk.github.io/cv/</loc>
+    <lastmod>2025-03-17T20:51:56-05:00</lastmod>
+  </url><url>
+    <loc>https://rmanzuk.github.io/about/</loc>
+    <lastmod>2025-03-17T20:49:02-05:00</lastmod>
+  </url><url>
+    <loc>https://rmanzuk.github.io/categories/</loc>
+  </url><url>
+    <loc>https://rmanzuk.github.io/tags/</loc>
   </url>
 </urlset>
