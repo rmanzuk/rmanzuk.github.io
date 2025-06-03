@@ -1,7 +1,7 @@
 +++
 date = '2025-03-17T21:14:01-05:00'
 draft = false
-title = 'Branching_archaeocyaths'
+title = "World's First Reefs"
 +++
 *Under construction*
 
@@ -13,4 +13,4 @@ There are two facts about our planet that can spark a lot of curiosity and quest
 
 [Cambrian as an interesting time period to explore]
 
-[How I went about it]
+[How I went about it.]
