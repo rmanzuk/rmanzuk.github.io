@@ -8,7 +8,7 @@ theme = "cactus"
     colortheme = "white" # Options: dark, light, white, or classic
     description = "Hi! This website is to serve as a forum to succinctly store my work, as well as what I'm currently curious about. Flip to the About page for a blurb, or check out any of the Projects/Discoveries to get a flavor of what I've done."
     mainSection = "projects"
-    mainSectionTitle = "Discoveries"
+    mainSectionTitle = "Projects"
     showAllPostsOnHomePage = false
     postsOnHomePage = 5
     tagsOverview = true
@@ -53,3 +53,8 @@ theme = "cactus"
     name = "About"
     url = "/about"
     weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

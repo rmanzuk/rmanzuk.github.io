@@ -1,11 +1,11 @@
 +++
-date = '2025-03-17T21:14:01-05:00'
+date = '2022-08-25T12:00:00-05:00'
 draft = false
 title = "World's First Reefs"
 +++
 *Under construction*
 
-[link to paper]
+<a href="/files/manzuk2023_archaeos.pdf" target="_blank">Read the paper</a>
 
 [figure]
 
@@ -14,3 +14,5 @@ There are two facts about our planet that can spark a lot of curiosity and quest
 [Cambrian as an interesting time period to explore]
 
 [How I went about it.]
+
+<img src="/images/intersection_graphics/branching_archaeos.pdf" alt="intersectional graphic" style="display: block; margin: 0 auto; width: 300px;">

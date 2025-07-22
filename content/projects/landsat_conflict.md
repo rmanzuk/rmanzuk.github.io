@@ -1,5 +1,10 @@
 +++
-date = '2025-03-17T21:14:46-05:00'
-draft = true
-title = 'Landsat_conflict'
+date = '2023-06-01T12:00:00-05:00'
+draft = false
+title = 'Remote Sensing of Land Rights'
 +++
+*Under construction*
+
+[figure]
+
+<img src="/images/intersection_graphics/west_bank.pdf" alt="intersectional graphic" style="display: block; margin: 0 auto; width: 300px;">
