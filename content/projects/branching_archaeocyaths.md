@@ -7,7 +7,7 @@ title = "World's First Reefs"
 
 <a href="/files/manzuk2023_archaeos.pdf" target="_blank">Read the paper</a>
 
-<img src="/images/earth_history_camex_timeline.pdf" alt="Earth history timeline" style="display: block; margin: 0 auto; width: 300px;">
+<img src="/images/earth_history_camex_timeline.pdf" alt="Earth history timeline" style="display: block; margin: 0 auto; width: 600px;">
 
 There are two facts about our planet that, taken together, raise some big questions. First, coral reefs take up far less than 1% of the ocean floor, yet an estimated 25% of marine species depend on them at some point in their life cycle. Second, reefs have been a near-constant presence in tropical seas ever since complex, shelly animals first appeared over 500 million years ago. Corals are only the latest in a long lineage of animal groups that have taken up the reefbuilding niche, constructing large mounds from robust shells. So the natural question becomes: have reefs maintained this outsized influence on marine biodiversity for the last 500 million years, or is that dynamic particular to the coral reefs of today? In this work, I explored that question by producing the first high-resolution 3D reconstructions of Earth’s first reef builders that lived roughly 520 million years ago, in the earliest stages of animal evolution.
 
