@@ -1,5 +1,4 @@
 +++
-date = '2022-08-25T12:00:00-05:00'
 draft = false
 title = "World's First Reefs"
 +++

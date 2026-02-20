@@ -1,5 +1,4 @@
 +++
-date = '2022-09-01T12:00:00-05:00'
 draft = false
 title = 'A High-Resolution Multispectral Camera for Geologists'
 +++
