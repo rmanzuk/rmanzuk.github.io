@@ -8,6 +8,7 @@
   {{ end }}
 
   {{ range (sort $pages "Date" "desc") }}
+    {{ if not .Date.IsZero }}
     {{ $pageYear := (.Date.Format "2006") }}
     {{ if (ne $pageYear ($.Scratch.Get "year")) }}
     {{ $.Scratch.Set "year" $pageYear }}
@@ -21,6 +22,14 @@
         <a class="" href="{{ .Permalink }}">{{ if .Title }} {{ .Title }} {{ else }} Untitled {{ end }}</a>
       </span>
     </li>
+    {{ else }}
+    <li class="post-item">
+      <div class="meta"></div>
+      <span>    
+        <a class="" href="{{ .Permalink }}">{{ if .Title }} {{ .Title }} {{ else }} Untitled {{ end }}</a>
+      </span>
+    </li>
+    {{ end }}
     {{ end }}
   </ul>
   {{ if eq .Site.Params.showAllPostsArchive false }}
