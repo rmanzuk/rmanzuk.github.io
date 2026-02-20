@@ -1,6 +1,6 @@
 +++
 date = '2024-10-01T12:00:00-05:00'
-draft = false
+draft = true
 title = 'Studying Ancient Environments through Quantitative Image Analysis'
 +++
 *Under construction*
