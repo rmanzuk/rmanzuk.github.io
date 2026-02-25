@@ -14,6 +14,8 @@ Corals are only the latest in a long lineage of animal groups that have taken up
 
 In this work, I explored that question by producing the first high-resolution 3D reconstructions of Earth’s first reef builders that lived roughly 520 million years ago, in the earliest stages of animal evolution.
 
+<img src="/images/archaeo_coral.pdf" alt="coral and archaeocyath" style="display: block; margin: 0 auto; width: 100%;">
+
 What I found is that these ancient reef structures were strikingly similar to modern corals in form and function—capable of withstanding wave energy, likely hosting photosynthetic partners, and creating rough, complex surfaces that enhanced nutrient exchange and provided new habitats for other organisms. Today we understand that the structural complexity of coral reefs—the nooks, crevices, and turbulent flow patterns—is a key reason they support so much life. My research shows that those same physical properties existed over 500 million years ago, when reefs built by archaeocyaths (an extinct group of sponges) introduced what I call a "Reef Roughness Revolution.” This term refers to a sudden increase in seafloor complexity far exceeding anything built by the microbial mats and stromatolites that came before. 
 
 Whether these ancient reefs directly helped drive the Cambrian explosion of animal diversity remains an open question, but these findings suggest that the relationship between reef architecture and biodiversity may be one of the oldest and most enduring in the history of life on Earth. Large-scale shifts in our biosphere may be more deeply tied to changes in reef ecosystems than we've appreciated.
