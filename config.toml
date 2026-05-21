@@ -6,9 +6,9 @@ theme = "cactus"
 
 [params]
     colortheme = "white" # Options: dark, light, white, or classic
-    description = "Hi! This website is to serve as a forum to succinctly store my work, as well as what I'm currently curious about. Flip to the About page for a blurb, or check out any of the Projects/Discoveries to get a flavor of what I've done."
+    description = "Earth Scientist | Human Rights, Justice, and Policy Researcher | Communicator"
     mainSection = "projects"
-    mainSectionTitle = "Projects"
+    mainSectionTitle = "Discoveries"
     showAllPostsOnHomePage = false
     postsOnHomePage = 5
     tagsOverview = true
@@ -20,6 +20,10 @@ theme = "cactus"
 [[params.social]]
     name = "github"
     link = "https://github.com/rmanzuk"
+
+[[params.social]]
+    name = "instagram"
+    link = "https://www.instagram.com/earth_to_ryan/" 
 
 [[params.social]]
     name = "email"

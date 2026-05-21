@@ -1,7 +1,7 @@
 +++
-date = '2023-06-01T12:00:00-05:00'
 draft = true
-title = 'Remote Sensing of Land Rights'
+title = 'Simple Analyses of Satellite Images Clarify a 40 Year History of Land Rights'
+weight = 5
 +++
 *Under construction*
 

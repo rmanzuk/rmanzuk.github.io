@@ -1,9 +1,10 @@
 +++
 draft = false
-title = 'A High-Resolution Multispectral Camera for Geologists'
+title = "We Can Build Rich Image Archives of Rock Samples to Delve Deeper Into Earth's History"
+weight = 4
 +++
 
-<img src="/images/multispec_examples.png" alt="intersectional graphic" style="display: block; margin: 0 auto; width: 100%;">
+<img src="/images/intersection_graphics/multispectral_camera.pdf" alt="intersectional graphic" style="display: block; margin: 0 auto; width: 300px;">
 
 <a href="/files/manzuk2022_gsatoday.pdf" target="_blank">Read the paper</a>
 
@@ -11,6 +12,7 @@ As artificial intelligence becomes a more common tool for scientists, a major co
 
 This project is an attempt at exactly that goal for geologists. A huge part of geological work involves looking at a rock and identifying what kinds of minerals, shells, or grains exist in it, and how big they are. Human eyes and brains are remarkably good at this task, but they're slow, and they don't capture all the information that minerals give off—particularly outside the visible spectrum. That gap is why I designed a new multispectral camera system that images rock samples across eight color bands, from blue light through near-infrared, plus ultraviolet fluorescence. 
 
+<img src="/images/multispec_examples.png" alt="intersectional graphic" style="display: block; margin: 0 auto; width: 100%;">
+
 By capturing spectral properties that our eyes simply can't see, this system heightens contrast between rock features and dramatically improves the accuracy of machine learning models trained to classify them. The goal isn't to replace the geologist's eye, but to give it superpowers. In future work, we'll pair this high-resolution imaging with automated analysis so that the same samples collected for geochemical work can also yield rich, reproducible petrographic data for deeper geophysical insights.
 
-<img src="/images/intersection_graphics/multispectral_camera.pdf" alt="intersectional graphic" style="display: block; margin: 0 auto; width: 300px;">

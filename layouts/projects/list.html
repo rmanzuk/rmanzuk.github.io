@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div id="archive">
+  <ul class="post-list">
+  {{ range (sort .Pages "Weight" "asc") }}
+    <li class="post-item">
+      <span>
+        <a class="" href="{{ .Permalink }}">{{ if .Title }} {{ .Title }} {{ else }} Untitled {{ end }}</a>
+      </span>
+    </li>
+  {{ end }}
+  </ul>
+</div>
+{{ end }}

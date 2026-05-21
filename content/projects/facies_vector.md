@@ -1,7 +1,7 @@
 +++
-date = '2024-10-01T12:00:00-05:00'
 draft = true
-title = 'Studying Ancient Environments through Quantitative Image Analysis'
+title = "Earth's Ancient Environments Can Look More Familiar Than Bizarre"
+weight = 2
 +++
 *Under construction*
 
