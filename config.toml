@@ -16,6 +16,7 @@ theme = "cactus"
     showProjectsList = false  # to use the template's default project list
     googleAnalytics = ""  # Disable it
     logo = "images/ryan_manzuk_headshot.jpg" # point to image to use for logo
+    css = ["css/cv.css"]
 
 [[params.social]]
     name = "github"
@@ -49,9 +50,8 @@ theme = "cactus"
 
 [[menu.main]]
     name = "CV "
-    url = "/files/cv_rmanzuk.pdf"
+    url = "/cv"
     weight = 3
-    params = { target = "_blank" }
 
 [[menu.main]]
     name = "About"

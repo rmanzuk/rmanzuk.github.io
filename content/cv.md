@@ -3,3 +3,296 @@ date = '2025-03-17T20:51:56-05:00'
 draft = false
 title = 'CV'
 +++
+
+<div style="text-align:center; margin-bottom:1.5em;">
+<strong>Ryan A. Manzuk, Ph.D.</strong><br>
+Postdoctoral Research Associate<br>
+Program on Science and Global Security, Princeton University<br>
+221 Nassau Street, Princeton, NJ 08544<br>
+<a href="mailto:rmanzuk@princeton.edu">rmanzuk@princeton.edu</a>
+</div>
+
+<p style="text-align:right; margin-bottom:2em;"><a href="/files/cv_rmanzuk.pdf" target="_blank">↓ Download PDF</a></p>
+
+---
+
+## Education and Professional Experience
+
+<table class="cv-table">
+<tr>
+  <td class="cv-date"><em>2024 →</em></td>
+  <td><strong>Princeton University</strong>, Program on Science and Global Security, Princeton, NJ <em>and</em><br>
+  <strong>University of Wisconsin–Madison</strong>, Department of Nuclear Engineering, Madison, WI<br>
+  Postdoctoral Research Associate<br>
+  Project focus: remote verification of uranium mining activities and environmental impacts</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2018–2024</em></td>
+  <td><strong>Princeton University</strong>, Princeton, NJ<br>
+  Ph.D., Geosciences; Advisor: Adam Maloof<br>
+  Thesis: <em>Reading Earth's surface history from image archives</em></td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2016–2018</em></td>
+  <td><strong>The Peace Corps</strong>, Guinea, West Africa<br>
+  Agroforestry Volunteer; Project focus: reforestation, beekeeping, and coffee cultivation</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2012–2016</em></td>
+  <td><strong>The University of Chicago</strong>, Chicago, IL<br>
+  B.S. with honor, Geophysical Sciences; Advisor: Mark Webster<br>
+  Thesis: <em>Morphometric analysis of the Cambrian trilobite</em> Olenellus</td>
+</tr>
+</table>
+
+## Research Methods and Skills
+
+**Field**: Structure from motion 3D mapping using hand-held and drone photography; grid-based mapping and sample collection in differential GPS geospatial framework; source interviews, open-source intelligence.
+
+**Programming and computing**: Matlab; Python; C++; optical remote sensing; hyperspectral remote sensing; deep learning; machine learning; computer vision; QGIS; G-code; Dragonfly ORS; Avizo; LaTeX; HTML; CSS; Adobe Suite.
+
+**Languages**: Superior ability in written and spoken French, as well as superior ability in Pular (a strictly verbal West African language), based upon Peace Corps implementation of ACTFL proficiency standards.
+
+## Peer Reviewed Publications
+
+<small><em>(*undergraduate student I mentored)</em></small>
+
+**8.** **Manzuk, R.A.** and Philippe, S. "Uranium in cobalt-hydroxide exports from the Democratic Republic of the Congo." *Nature Communications*, in press.
+
+**7.** **Manzuk, R.A.**, Nadeau, M.D., Mate, C., Jacquet, S.M., and Maloof, A.C. "Lithofacies vectors: Disentangling environmental variability, diagenesis, and secular change." *American Journal of Science*, in press.
+
+**6.** **Manzuk, R.A.**, Bieri, R., Erden, B., Samuels, B.M., and Maloof, A.C. "Tracking agricultural land-use change with intuitive satellite methods to support stakeholder and rights-based engagement." *The Geographical Journal*, in review.
+
+**5.** Howes, B.J., Mehra, A., Wilcots, J., Geyman, E.C., **Manzuk, R.A.**, Deutsch, C.A., and Maloof, A.C. "The where, when, and how of ooid formation: What ooids tell us about ancient seawater chemistry." *Earth and Planetary Science Letters*, 637:118697, 2024. \[[PDF](https://rmanzuk.github.io/files/howes2024_ooid_morphology.pdf)\]
+
+**4.** \*Panigrahi, I., **Manzuk, R.A.**, Maloof, A.C., and Fong, R. "Improving Data-Efficient Fossil Segmentation via Model Editing." *CVPR Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3D-IVU)*, 2023. \[[PDF](https://rmanzuk.github.io/files/panigrahi2023_fossils.pdf)\]
+
+**3.** **Manzuk, R.A.**, Maloof, A.C., Kaandorp, J.A., and Webster, M. "Branching archaeocyaths as ecosystem engineers during the Cambrian radiation." *Geobiology*, 21(1):66–85, 2023. \[[PDF](https://rmanzuk.github.io/files/manzuk2023_archaeos.pdf)\]
+
+**2.** **Manzuk, R.A.**, \*Singh, D., Mehra, A., Geyman, E.C., Edmonsond, S., and Maloof, A.C. "A high-resolution, multispectral macro-imager for geology and paleontology." *GSA Today*, 32(9):4–9, 2022. \[[PDF](https://rmanzuk.github.io/files/manzuk2022_gsatoday.pdf)\]
+
+**1.** Mehra, A., Howes, B.J., **Manzuk, R.A.**, Spatzier, A., Samuels, B.M., and Maloof, A.C. "A novel technique for producing three-dimensional data using serial sectioning and semi-automatic image classification." *Microscopy and Microanalysis*, 2022. \[[PDF](https://rmanzuk.github.io/files/mehra2022_giri_methods.pdf)\]
+
+## Invited Talks
+
+<table class="cv-table">
+<tr>
+  <td class="cv-date"><em>Nov. 2025</em></td>
+  <td><strong>Wheaton College</strong>, Symposium on Science, Justice, and Human Rights</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>Oct. 2025</em></td>
+  <td><strong>Princeton University</strong>, Science and Global Security Seminar</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>Feb. 2025</em></td>
+  <td><strong>Harvard University</strong>, Biweekly Solid Earth and Planetary Physics Seminar (BiSEPPS)</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>Apr. 2024</em></td>
+  <td><strong>Columbia University</strong>, Biology and Paleo Environment Seminars</td>
+</tr>
+</table>
+
+## Teaching
+
+<table class="cv-table">
+<tr>
+  <td class="cv-date"><em>Spring 2025, 2026</em></td>
+  <td><strong>SPI 593G:</strong> <em>Satellite Imagery for Policymakers, People, and the Planet</em> [main instructor]<br>
+  Introduction to remote sensing with hands-on exercises focused on use cases from humanitarian contexts to open-source intelligence. Co-instructor: Alex Glaser.</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>Spring 2023</em></td>
+  <td><strong>GEO 370 / ENV 370:</strong> <em>Sedimentology</em> [assistant]<br>
+  Data-focused explorations of the physical and chemical processes that shape Earth's surface through the transport and deposition of sediments. Main instructor: Adam Maloof.</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>Spring 2022</em></td>
+  <td><strong>GEO 376 / ENV 375 / CEE 379 / MAE 376:</strong> <em>The Physics of Glaciers</em> [assistant]<br>
+  Physics-based modeling of glaciers and data analysis; design of tank experiments for desktop glacier simulations. Main instructors: Ching-Yao Lai and Adam Maloof.</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>Spring 2021</em></td>
+  <td><strong>GEO 202:</strong> <em>Ocean, Atmosphere and Climate</em> [assistant]<br>
+  Introduction to gathering and analyzing geoscience data including satellite imagery and float-based measurements. Main instructor: Graeme MacGilchrist.</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>Fall 2020</em></td>
+  <td><strong>ENV 367 / GEO 367:</strong> <em>Earth System Modeling, Assessing Mitigation Strategies</em> [assistant]<br>
+  Forcing a compact Earth system model (OSCAR) and analyzing outputs in Python Jupyter notebooks. Main instructor: Laure Resplandy.</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>Fall 2019, 2020</em></td>
+  <td><strong>Junior Colloquium</strong>, Princeton University Department of Geosciences [main instructor]<br>
+  Basic skills in data analysis and computation using Python Jupyter notebooks.</td>
+</tr>
+</table>
+
+## Selected Awards, Honors, and Fellowships
+
+<table class="cv-table">
+<tr>
+  <td class="cv-date"><em>2025–2026</em></td>
+  <td>Digital Science Communication Fellow, Museum of Science</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2025–2026</em></td>
+  <td>Future Values Fellow, Princeton University</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2023–2024</em></td>
+  <td>Myhrvold-Havranek Graduate Fellowship, Princeton University</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2019–2023</em></td>
+  <td>Department of Geosciences Graduate Student Research Fund, Princeton University (3×)</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2021</em></td>
+  <td>Department of Geosciences Graduate Student Teaching Award, Princeton University</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2021</em></td>
+  <td>Princeton Research Day Orange &amp; Black Presenter Award, Princeton University</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2020</em></td>
+  <td>Society for Sedimentary Geology Weimer Student Research Grant</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2018–2019</em></td>
+  <td>David Elliston Guyer '67 and Walter R.F. Guyer *41 Fellowship, Princeton University</td>
+</tr>
+<tr>
+  <td class="cv-date"><em>2016</em></td>
+  <td>Mary Jean Mulvaney Scholar Athlete Award, The University of Chicago</td>
+</tr>
+</table>
+
+<!--
+================================================================================
+THINGS I'VE DONE BUT NOT CURRENTLY RENDERED IN THE CV
+(mirrored from commented-out sections in CV_rmanzuk.tex)
+================================================================================
+
+## Education — additional notes
+
+- Could add: RGS fellowship (2019–2022)
+- Undergraduates advised: Rio Baran, Dave Singh, Indu Panigrahi, Jasmine Zhang,
+  Eric Wang, Devon Ulrich, Nishant Kumar, Galen Cadley
+- Full thesis subtitle: "Morphometric analysis of the Cambrian trilobite *Olenellus*,
+  with documentation of new material from Cherry Creek, Nevada, USA"
+
+## Research Methods and Skills — omitted entries
+
+**Laboratory**: 3D sample imaging and reconstruction via structure from motion,
+serial grinding and imaging, and X-ray Micro-CT; design and implementation of
+optics and imaging technologies; Computer Numerical Control and manual machining;
+morphometric analysis from 2D and 3D images; gas source isotope ratio mass
+spectrometry.
+
+**Note (journalism)**: I work closely with investigative journalists, doing my own
+source work, as well as supporting investigations with scientific methods and data
+analysis.
+
+## Invited Talks — omitted entry
+
+| *Nov. 2025* | **University of Wisconsin–Madison**, Nuclear Engineering & Engineering Physics Seminar |
+
+## Professional and Leadership Experience (full section, not rendered)
+
+| *2020–2021* | **Faculty student rep**, Department of Geosciences, Princeton, NJ |
+|             | Lead for student opinion in faculty search |
+| *2016–2018* | **Agroforestry Volunteer**, The Peace Corps, Guinea, West Africa |
+|             | Partnered with a vocational school of agriculture to develop high-yield,
+               environmentally-sensitive food production systems including
+               climate-sensitive gardens and apiaries. Co-coordinated a project
+               to relaunch arabica coffee production in Guinea. |
+| *2013–2016* | **Varsity Track and Field Captain**, The University of Chicago |
+|             | Organized off-season workouts and social activities, as well as a
+               partnership with the university service fraternity. |
+| *2015–2016* | **Research Assistant**, Knowledge Lab, The University of Chicago |
+|             | Compiled databases of faculty CVs and Nobel Prize-winning research for
+               study of the processes of the scientific institution. |
+| *2015*      | **Research Team Leader**, The World Science Conference, Israel |
+|             | One of eleven US delegates chosen to represent the country at a meeting
+               of over 400 young scientists from over 80 countries. Led a
+               research team to survey the possibility of feeding the projected
+               world population in 2050. |
+| *2014*      | **Invertebrate Paleontology Intern**, The Field Museum of Natural History, Chicago, IL |
+|             | Photographed over 3000 specimens and labels. Entered all accompanying
+               data in the KE EMu database to digitize the museum's Silurian
+               Reef collection. |
+
+## Field Experience (full section, not rendered)
+
+| *2025*      | **Vienna, Paris, and Brussels, EU** [2 weeks] — Interviews with journalistic sources and agencies to inform uranium mine monitoring |
+| *2023*      | **The Flinders Ranges, Australia** [5 weeks] — High-resolution mapping and sampling of Neoproterozoic and Cambrian paleoenvironments |
+| *2021*      | **The Big Horn Mountains, Wyoming, USA** [1 week] — Paleoenvironmental context surrounding Earth's first rooted land plants (Devonian) |
+| *2021*      | **Paradox Basin, Utah, USA** [3 weeks] — Searching for glacioeustasy in a tropical carbonate stratigraphy |
+| *2019*      | **The Pelly Mountains, Yukon Territory, Canada** [6 weeks] — Paleoenvironmental reconstruction of lower Cambrian archaeocyathid reefs |
+| *2019*      | **Bolivian Altiplano** [6 weeks] — Stratigraphic analysis of the environmental context surrounding the K-Pg mass extinction |
+| *2019*      | **Esmerelda County, Nevada, USA** [4 weeks] — Paleoenvironmental reconstruction of lower Cambrian archaeocyathid reefs |
+| *2018*      | **Zumaia, Spain and Gubbio, Italy** [4 weeks] — Stratigraphic context of potentially cyclic slope deposits near the K-Pg boundary |
+| *2016*      | **San Salvador Island, The Bahamas** [1 week] — Study of a modern carbonate platform sedimentology and biological systems |
+| *2015*      | **The Salton Trough, California, USA** [1 week] — Contextualization of a sedimentary basin in a tectonically active environment |
+
+## Conference Proceedings (full section, not rendered)
+
+**2022** Manzuk, R.A., Howes, B.J., Geyman, E.C., Panigrahi, I., Singh, D., and Maloof, A.C.
+"Multispectral Petrography Image Analysis as a Method for Paleoenvironmental and
+Paleoecological Reconstruction; Applications to Earth's First Reefs."
+*AGU Fall Meeting*, PP15A-03, Chicago, IL, 2022.
+
+**2022** Hagen, C.J., Maloof, A.C., Edmonsond, S., Manzuk, R.A., Howes, B.J., Higgins, J.A.,
+and Zhao, P. "Machine learning and computational image analysis leveraged to probe
+relationships between carbonate isotopic composition, diagenetic alteration, and
+sedimentary facies isotopic variability." *AGU Fall Meeting*, PP46A-08, Chicago, IL, 2022.
+
+**2022** Howes, B.J., Manzuk, R.A., Mehra, A., and Maloof, A.C. "Tales of Transport and
+Chemistry from Three-Dimensional Growth Histories of Ooids." *AGU Fall Meeting*,
+PP16A-08, Chicago, IL, 2022.
+
+**2022** Maloof, A.C., Manzuk, R.A., Geyman, E.C., Mehra, A., Kaandorp, J.A., Webster, M.,
+Edmonsond, S., Howes, B.J., and Hagen, C.J. "From Modern Analogs to Three Dimensions:
+Lessons Learned for Interpreting the Stratigraphic Record of the Proterozoic-Phanerozoic
+Transition." *GSA Connects*, 140-10, Denver, CO, October 2022.
+
+**2022** Manzuk, R.A., Maloof, A.C., Kaandorp, J.A., and Webster, M. "Branching
+archaeocyathids as ecosystem engineers during the Cambrian radiation."
+*Northeast Geobiological Symposium 2022*, MIT, April 2022.
+
+**2021** Manzuk, R.A., Singh, D., Mehra, A., Geyman, E.C., Edmonsond, S., and Maloof, A.C.
+"A high spatial resolution, multispectral macro-imager for quantitative analysis of
+facies and fossil assemblages." *GSA Connects*, 213-4, Portland, OR, 2021.
+
+**2021** Manzuk, R.A. and Maloof, A.C. "Dense Archaeocyathid branching and habitat
+engineering during the Cambrian Explosion." *Northeast Geobiological Symposium 2021*,
+Virtual – Dartmouth University, April 2021.
+
+**2021** Singh, D., Manzuk, R.A., Mehra, A., and Maloof, A.C. "An ultra-high spatial
+resolution multi-spectral macro-imager for geological samples." *Northeast Geobiological
+Symposium 2021*, Virtual – Dartmouth University, April 2021.
+
+**2020** Manzuk, R.A. and Maloof, A.C. "Archaeocyathid reefs as facilitators of
+biodiversity in the Lower Cambrian." *GSA 2020 Connects Online*, Virtual, October 2020.
+
+## Funding (full section, not rendered)
+
+| *2021* | **Graduate Student Research Fund**, Princeton University [$5,000] — Field work in the Paradox Basin, Utah, testing the viability of machine learning image analyses to gather quantitative lithofacies data |
+| *2020* | **Weimer Student Research Grant**, Society for Sedimentary Geology [$1,000] — Field work in the Moroccan Anti-Atlas Mountains characterizing lower Cambrian archaeocyathid reefs and associated fauna [*delayed due to COVID-19 pandemic*] |
+| *2019* | **Graduate Student Research Fund**, Princeton University [$5,000] — Field work in the Yukon Territories, Canada, characterizing ~100 m-scale lower Cambrian archaeocyathid reefs and associated fauna |
+
+## Awards — omitted individual entries
+
+| *2024*      | Schmidt Science Fellows finalist |
+| *2019*      | COS 424 computer vision AI Kaggle competition winner |
+| *2015*      | Men's 4×400m Relay School Record Holder, The University of Chicago |
+| *2015*      | Academic All-American Honors, USTFCCCA |
+| *2013–2016* | Varsity Track and Field Team Captain, The University of Chicago |
+| *2012–2016* | The College Dean's List, The University of Chicago |
+
+================================================================================
+-->
+
