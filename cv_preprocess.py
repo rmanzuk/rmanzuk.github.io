@@ -83,6 +83,56 @@ def parse_cv_table(html):
     return raw_latex("\n".join(lines))
 
 
+def pub_md_to_latex(s):
+    """Convert markdown inline syntax to LaTeX for publication entry text.
+
+    Handles bold, italic, escaped asterisks, bracketed links, and <br> tags.
+    Must produce a complete raw LaTeX block (no pandoc processing afterwards).
+    """
+    # <br> → LaTeX line break (two backslashes + newline)
+    s = s.replace("<br>", "\\\\\n")
+    # Bracketed links: \[[text](url)\] → [\href{url}{text}]
+    s = re.sub(
+        r'\\\[([^\]]*)\]\(([^)]+)\)\\\]',
+        lambda m: r'[\href{' + m.group(2) + '}{' + m.group(1) + '}]',
+        s,
+    )
+    # Bold **text** — must come before italic to avoid partial match on ***
+    s = re.sub(r'\*\*(.+?)\*\*', lambda m: r'\textbf{' + m.group(1) + '}', s)
+    # Italic *text* — but not \* (escaped asterisk for student indicator)
+    s = re.sub(r'(?<!\\)\*(.+?)\*', lambda m: r'\textit{' + m.group(1) + '}', s)
+    # Escaped asterisk \* → bare * (student indicator symbol)
+    s = s.replace('\\*', '*')
+    return s
+
+
+def wrap_publication_entries(text):
+    """Convert each numbered publication entry to a raw LaTeX block.
+
+    Outputs a single fenced {=latex} block so that \\hangindent is set inside
+    the same TeX group as the paragraph text — avoiding the \\par reset that
+    would occur if \\hangindent were in a separate raw block preceding a
+    pandoc-processed markdown paragraph.
+    """
+    def replacer(m):
+        content = pub_md_to_latex(m.group(0).strip())
+        latex = (
+            "\\begin{samepage}\n"
+            "{\\hangindent=1.5em\\hangafter=1\n"
+            + content
+            + "\\par}\n"
+            "\\end{samepage}"
+        )
+        return raw_latex(latex)
+    # Match lines starting with a bold number like **8.**
+    return re.sub(
+        r'^\*\*\d+\.\*\*\s+.+$',
+        replacer,
+        text,
+        flags=re.MULTILINE,
+    )
+
+
 def convert_heading(m):
     """## Section title → bold heading + horizontal rule."""
     title = m.group(1).strip()
@@ -142,6 +192,9 @@ def process(text):
 
     # 7. ## Section headings → bold + rule
     text = re.sub(r"^## (.+)$", convert_heading, text, flags=re.MULTILINE)
+
+    # 8. Wrap numbered publication entries in samepage to prevent mid-entry page breaks
+    text = wrap_publication_entries(text)
 
     return text.strip()
 
