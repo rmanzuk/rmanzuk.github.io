@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Earth's Frist Reefs Looked a Lot Like Coral Reefs Today -- 500 Million Years Ago"
+title = "Earth's First Reefs Looked a Lot Like Coral Reefs Today -- 500 Million Years Ago"
 weight = 3
 +++
 
