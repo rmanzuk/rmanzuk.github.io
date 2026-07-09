@@ -61,17 +61,17 @@ Program on Science and Global Security, Princeton University<br>
 
 **7.** **Manzuk, R.A.**, Bieri, R., Erden, B., Samuels, B.M., and Maloof, A.C.<br>Tracking agricultural land-use change with intuitive satellite methods to support stakeholder and rights-based engagement.<br>*PLOS One*, in review.
 
-**6.** **Manzuk, R.A.**, Nadeau, M.D., Mate, C., Jacquet, S.M., and Maloof, A.C.<br>Lithofacies vectors: Disentangling environmental variability, diagenesis, and secular change.<br>*American Journal of Science*, 326, Article 8, 2026. \[[PDF](https://rmanzuk.github.io/files/manzuk2026_facies_vectors.pdf)\]
+**6.** **Manzuk, R.A.**, Nadeau, M.D., Mate, C., Jacquet, S.M., and Maloof, A.C.<br>Lithofacies vectors: Disentangling environmental variability, diagenesis, and secular change.<br>*American Journal of Science*, 326, Article 8, 2026. \[PDF](https://rmanzuk.github.io/files/manzuk2026_facies_vectors.pdf)\]
 
-**5.** Howes, B.J., Mehra, A., Wilcots, J., Geyman, E.C., **Manzuk, R.A.**, Deutsch, C.A., and Maloof, A.C.<br>The where, when, and how of ooid formation: What ooids tell us about ancient seawater chemistry.<br>*Earth and Planetary Science Letters*, 637:118697, 2024. \[[PDF](https://rmanzuk.github.io/files/howes2024_ooid_morphology.pdf)\]
+**5.** Howes, B.J., Mehra, A., Wilcots, J., Geyman, E.C., **Manzuk, R.A.**, Deutsch, C.A., and Maloof, A.C.<br>The where, when, and how of ooid formation: What ooids tell us about ancient seawater chemistry.<br>*Earth and Planetary Science Letters*, 637:118697, 2024. \[PDF](https://rmanzuk.github.io/files/howes2024_ooid_morphology.pdf)\]
 
-**4.** \*Panigrahi, I., **Manzuk, R.A.**, Maloof, A.C., and Fong, R.<br>Improving Data-Efficient Fossil Segmentation via Model Editing.<br>*CVPR Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3D-IVU)*, 2023. \[[PDF](https://rmanzuk.github.io/files/panigrahi2023_fossils.pdf)\]
+**4.** \*Panigrahi, I., **Manzuk, R.A.**, Maloof, A.C., and Fong, R.<br>Improving Data-Efficient Fossil Segmentation via Model Editing.<br>*CVPR Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3D-IVU)*, 2023. \[PDF](https://rmanzuk.github.io/files/panigrahi2023_fossils.pdf)\]
 
-**3.** **Manzuk, R.A.**, Maloof, A.C., Kaandorp, J.A., and Webster, M.<br>Branching archaeocyaths as ecosystem engineers during the Cambrian radiation.<br>*Geobiology*, 21(1):66–85, 2023. \[[PDF](https://rmanzuk.github.io/files/manzuk2023_archaeos.pdf)\]
+**3.** **Manzuk, R.A.**, Maloof, A.C., Kaandorp, J.A., and Webster, M.<br>Branching archaeocyaths as ecosystem engineers during the Cambrian radiation.<br>*Geobiology*, 21(1):66–85, 2023. \[PDF](https://rmanzuk.github.io/files/manzuk2023_archaeos.pdf)\]
 
-**2.** **Manzuk, R.A.**, \*Singh, D., Mehra, A., Geyman, E.C., Edmonsond, S., and Maloof, A.C.<br>A high-resolution, multispectral macro-imager for geology and paleontology.<br>*GSA Today*, 32(9):4–9, 2022. \[[PDF](https://rmanzuk.github.io/files/manzuk2022_gsatoday.pdf)\]
+**2.** **Manzuk, R.A.**, \*Singh, D., Mehra, A., Geyman, E.C., Edmonsond, S., and Maloof, A.C.<br>A high-resolution, multispectral macro-imager for geology and paleontology.<br>*GSA Today*, 32(9):4–9, 2022. \[PDF](https://rmanzuk.github.io/files/manzuk2022_gsatoday.pdf)\]
 
-**1.** Mehra, A., Howes, B.J., **Manzuk, R.A.**, Spatzier, A., Samuels, B.M., and Maloof, A.C.<br>A novel technique for producing three-dimensional data using serial sectioning and semi-automatic image classification.<br>*Microscopy and Microanalysis*, 2022. \[[PDF](https://rmanzuk.github.io/files/mehra2022_giri_methods.pdf)\]
+**1.** Mehra, A., Howes, B.J., **Manzuk, R.A.**, Spatzier, A., Samuels, B.M., and Maloof, A.C.<br>A novel technique for producing three-dimensional data using serial sectioning and semi-automatic image classification.<br>*Microscopy and Microanalysis*, 2022. \[PDF](https://rmanzuk.github.io/files/mehra2022_giri_methods.pdf)\]
 
 ## Invited Talks
 
