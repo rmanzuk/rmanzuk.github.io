@@ -59,7 +59,7 @@ Program on Science and Global Security, Princeton University<br>
 
 **8.** **Manzuk, R.A.** and Philippe, S.<br>Uranium in cobalt-hydroxide exports from the Democratic Republic of the Congo.<br>*Nature Communications*, in press.
 
-**7.** **Manzuk, R.A.**, Bieri, R., Erden, B., Samuels, B.M., and Maloof, A.C.<br>Tracking agricultural land-use change with intuitive satellite methods to support stakeholder and rights-based engagement.<br>*The Geographical Journal*, in review.
+**7.** **Manzuk, R.A.**, Bieri, R., Erden, B., Samuels, B.M., and Maloof, A.C.<br>Tracking agricultural land-use change with intuitive satellite methods to support stakeholder and rights-based engagement.<br>*PLOS One*, in review.
 
 **6.** **Manzuk, R.A.**, Nadeau, M.D., Mate, C., Jacquet, S.M., and Maloof, A.C.<br>Lithofacies vectors: Disentangling environmental variability, diagenesis, and secular change.<br>*American Journal of Science*, 326, Article 8, 2026. \[[PDF](https://rmanzuk.github.io/files/manzuk2026_facies_vectors.pdf)\]
 
