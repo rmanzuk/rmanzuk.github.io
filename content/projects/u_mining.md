@@ -6,7 +6,7 @@ weight = 1
 
 <img src="/images/intersection_graphics/u_byproduct.pdf" alt="intersectional graphic" style="display: block; margin: 0 auto; width: 300px;">
 
-This work was published as an article in <a href="https://www.nature.com/articles/s41467-026-75910-z" target="_blank">Nature Communications</a>. I also contributed to journalism published in parallel in the <a href="" target="_blank">Financial Times</a>, <a href="" target="_blank">Le Monde</a>, as well as a writeup of our collaboration for <a href="https://www.lighthousereports.com/investigation/congos-hidden-uranium-exports/" target="_blank">Lighthouse Reports</a>.
+This work was published as an article in <a href="https://www.nature.com/articles/s41467-026-75910-z" target="_blank">Nature Communications</a>. I also contributed to journalism published in parallel in the <a href="https://www.ft.com/content/77815def-6f50-4adf-8ba3-3643de7bf8ab?accessToken=zwAAAZ-yT3s1kc93gV3vb1BK39OLozZD3nv4qw.MEUCIBsTmqGCse0o1QWA1nWkMzKtPP7QA39cYEYoJa_SMDkuAiEA3GsmyY-ZhXhPsTMzic968vpolL3XkKwI1TaT-aeyk0M&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=6d6a723c-30c1-40f8-bdb8-2342f9eebde3&shareType=enterprise&syn-25a6b1a6=1" target="_blank">Financial Times</a>, <a href="" target="_blank">Le Monde</a>, as well as a writeup of our collaboration for <a href="https://www.lighthousereports.com/investigation/congos-hidden-uranium-exports/" target="_blank">Lighthouse Reports</a>.
 
 While working on this project, I was continually asked why in the world I was working with a group focused on science and policy questions related to nuclear weapons and energy. I am a geologist. What was I contributing to the field where physicists and engineers are the go-to experts? 
 
