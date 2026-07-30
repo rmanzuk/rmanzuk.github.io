@@ -57,7 +57,7 @@ Program on Science and Global Security, Princeton University<br>
 
 <small><em>(*undergraduate student I mentored)</em></small>
 
-**8.** **Manzuk, R.A.** and Philippe, S.<br>Uranium in cobalt-hydroxide exports from the Democratic Republic of the Congo.<br>*Nature Communications*, in press.
+**8.** **Manzuk, R.A.** and Philippe, S.<br>Uranium in cobalt-hydroxide exports from the Democratic Republic of the Congo.<br>*Nature Communications*, 2026. \[PDF](https://rmanzuk.github.io/files/manzuk2026_drc_cobalt.pdf)\]
 
 **7.** **Manzuk, R.A.**, Bieri, R., Erden, B., Samuels, B.M., and Maloof, A.C.<br>Tracking agricultural land-use change with intuitive satellite methods to support stakeholder and rights-based engagement.<br>*PLOS One*, in review.
 

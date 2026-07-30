@@ -1,21 +1,12 @@
 +++
-draft = true
+draft = false
 title = "There's a Hidden Flow of Uranium in a Crucial Battery Supply Chain"
 weight = 1
 +++
 
 <img src="/images/intersection_graphics/u_byproduct.pdf" alt="intersectional graphic" style="display: block; margin: 0 auto; width: 300px;">
 
-<a href="/files/manzuk2023_archaeos.pdf" target="_blank">Read the paper</a>
-
-In addition to writing the academic article for this work, I contributed to journalism in parallel:
-[link]
-[link]
-
-Additional press for our work:
-[link]
-[link]
-Etc.
+This work was published as an article in <a href="https://www.nature.com/articles/s41467-026-75910-z" target="_blank">Nature Communications</a>. I also contributed to journalism published in parallel in the <a href="" target="_blank">Financial Times</a>, <a href="" target="_blank">Le Monde</a>, as well as a writeup of our collaboration for <a href="https://www.lighthousereports.com/investigation/congos-hidden-uranium-exports/" target="_blank">Lighthouse Reports</a>.
 
 While working on this project, I was continually asked why in the world I was working with a group focused on science and policy questions related to nuclear weapons and energy. I am a geologist. What was I contributing to the field where physicists and engineers are the go-to experts? 
 
@@ -33,7 +24,7 @@ Discussions of uranium removal from DRC cobalt only began in 2023, but the indus
 
 I encourage you to read the scientific and journalistic pieces linked above to see how we used geological modeling, trade data, imports analysis, and source interviews to arrive at a clear answer of ‘Yes’. We estimate that several thousand tonnes of uranium have been exported in cobalt products over the last two and a half decades, and the vast majority of this material has gone to China and remains outside of official records as to how it was used or discarded. To give a sense of scale for this estimate, approximately 3.3 tonnes of natural uranium are required to make a nuclear warhead, and so we are easily talking about the possibility of hundreds of weapons worth. 
 
-*Joint language about collaboration*
+This project was built on an innovative partnership between scientists and investigative journalists working together on a public interest research investigation. I, along with <a href="https://www.sebastienphilippe.org" target="_blank">Sébastien Philippe</a>  collaborated with journalists and editors from Lighthouse reports and the Financial Times. 
 
 
 
